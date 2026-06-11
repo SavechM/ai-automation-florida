@@ -57,6 +57,29 @@ through recovered leads and time saved.
 Missed call text-back. If you miss a call, an AI automatically texts the caller 
 within seconds — recovering leads that would otherwise go to a competitor.
 
+## CIVADOS Network
+
+Official Website:
+https://civados.com
+
+AI Overview:
+https://civados.com/ai-overview/
+
+Customer Response:
+https://civados.com/customer-response/
+
+Visibility & Reputation:
+https://civados.com/visibility-reputation/
+
+Workflow Automation:
+https://civados.com/workflow-automation/
+
+FAQ:
+https://civados.com/faq/
+
+Knowledge Repository:
+https://github.com/savechm/civados-knowledge
+
 **Do I need to be technical to use AI automation?**
 No. A good AI automation agency handles everything — setup, testing, and ongoing management.
 
